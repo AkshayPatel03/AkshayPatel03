@@ -15,9 +15,9 @@
 [<img align="left" alt="AkshayPatel | Twitter" width="22px" src="" />][twitter]
 [<img align="left" alt="AkshayPatel | LinkedIn" width="22px" src="" />][linkedin]
 
-[twitter]:https://twitter.com/Akshay03patel
+[twitter]:(https://twitter.com/Akshay03patel)
 [youtube]: 
-[linkedin]: https://www.linkedin.com/in/akshay-patel-2303/
+[Linkedin]: (https://www.linkedin.com/in/akshay-patel-2303/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
