@@ -1,4 +1,4 @@
-<h1>Hi, I'm Akshay! <br/><a href="https://github.com/Cybersecurity">Cybersecurity Analyst </a>
+<h1>Hi, I'm Akshay! <br/><a href="https://github.com/akshaypatel03/Cybersecurity">Cybersecurity Analyst </a>
 
 <h2>👨‍💻👨‍💻 Cybersecurity and Networking projects :</h2>
 
