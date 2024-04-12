@@ -10,21 +10,21 @@
 <!--
 <picture> <img align="right" src="https://github.com/AkshayPatel03/files/blob/main/CyberSec Expert.png" width = 3px></picture>
 -->
-<picture> <img align="right" src="https://github.com/AkshayPatel03/files/blob/main/Cybersecurity.PNG" width = 300px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width = 300px></picture>
 
 <br>
 
 - An Experienced Penetration Tester
-- Self-tought SOC Analyst
+- Self-taught SOC Analyst
 - Currently Learning Python Automation for Cybersecurity and Vulnerability Scanning
-- Building and Practining Kali Linux Penetration Testing Tools in Kali Linux Virtual environment
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/AkshayPatel03/Resume/blob/main/AkshayPatelCV.pdf)
+- Building and Practicing Kali Linux Penetration Testing Tools in Kali Linux Virtual environment
+- I’m currently open for an internship or a new job opportunity, this is [My Resume](https://github.com/AkshayPatel03/Resume/blob/main/AkshayPatelCV.pdf)
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://github.com/AkshayPatel03/AkshayPatel03/blob/main/skills%20.gif" width ="25"><b> Skills</b>
+## <img src="https://github.com/AkshayPatel03/AkshayPatel03/blob/main/skills%20.gif" width ="25"><b> Technical Skills</b>
 <br>
 
 <p align="center">
@@ -74,6 +74,7 @@
 
 </p>
 
+
 <!--
 <br>
 
@@ -99,14 +100,9 @@
 -->
 
 
-<br>
-<br>
-<br>
-
------
 
 <br>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <b> Connect Me..!</b><img src="https://github.com/AkshayPatel03/files/blob/main/handshake.gif" width ="80">
 <br>
@@ -142,8 +138,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
+
 
 <div align='center'>
 
@@ -152,11 +147,6 @@
 </div>
 <br>
 <br>
-<br>
-<br>
 
----
-
-<br>
 
 
