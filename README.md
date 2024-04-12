@@ -1,5 +1,11 @@
 <h1>Hi, I'm Akshay! <br/><a href="https://github.com/akshaypatel03/Cybersecurity">Cybersecurity Analyst </a>
 
+<h1 align="center"><b>Hi , I'm Akshay Patel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Penetration-Testor,;SOC+Analyst,;Cybersecurity+Practicner,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
 <h2>👨‍💻👨‍💻 Cybersecurity and Networking projects :</h2>
 
 - <b>PowerShell</b>
