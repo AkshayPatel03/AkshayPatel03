@@ -5,13 +5,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Experienced+Penetration-Tester,;SOC+Analyst,;Cybersecurity+Practitioner,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></a>
 </p>
 
-
-
-
 	
 ## <picture><img src = "https://github.com/AkshayPatel03/AkshayPatel03/blob/main/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.dev/AkshayPatel03/files/blob/main/CyberSec Expert.png" width = 250px></picture>
+<!--
+<picture> <img align="right" src="https://github.com/AkshayPatel03/files/blob/main/CyberSec Expert.png" width = 3px></picture>
+-->
+<picture> <img align="right" src="https://github.com/AkshayPatel03/files/blob/main/Cybersecurity.PNG" width = 300px></picture>
 
 <br>
 
