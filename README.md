@@ -36,7 +36,6 @@
     ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white)
     ![ZAP](https://img.shields.io/badge/ZAP-00549E.svg?style=for-the-badge&logo=ZAP&logoColor=white)
     ![OWASP](https://img.shields.io/badge/OWASP-000000.svg?style=for-the-badge&logo=OWASP&logoColor=white)
-    ![OWASP Dependency-Check](https://img.shields.io/badge/OWASP-000000.svg?style=for-the-badge&logo=OWASP&logoColor=white)
     ![Qualys](https://img.shields.io/badge/Qualys-ED2E26.svg?style=for-the-badge&logo=Qualys&logoColor=white)
     ![MetaSploit](https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white)
     ![WireShark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
