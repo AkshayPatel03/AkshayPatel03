@@ -18,7 +18,7 @@
 - Self-taught SOC Analyst
 - Currently Learning Python Automation for Cybersecurity and Vulnerability Scanning
 - Building and Practicing Kali Linux Penetration Testing Tools in Kali Linux Virtual environment
-- I’m currently open for an internship or a new job opportunity, this is [My Resume](https://github.com/AkshayPatel03/AkshayPatelCV/blob/7d2b0d12f9ab5dcda66cefcca6d5950e31eb25ce/AkshayPatelCV%20GH.pdf)
+- I’m currently open for an internship or a new job opportunity, this is [My Resume](https://github.com/AkshayPatel03/AkshayPatelCV/blob/03f6589b1ff2c4e6f69c427715df95f69c335215/AkshayPatelCV%20GH.pdf)
 
 
 <br><br>
