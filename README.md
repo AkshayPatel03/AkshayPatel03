@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Akshay Patel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://akshaypatel03.github.io/"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Experienced+Penetration-Tester,;SOC+Analyst,;Cybersecurity+Practitioner,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></a>
+  <a href="https://akshaypatel03.github.io/"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Windows+System+and+Network+Administrator,;Experienced+Penetration-Tester,;SOC+Analyst,;Cybersecurity+Practitioner,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></a>
 </p>
 
 	
@@ -13,7 +13,7 @@
 <picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width = 300px></picture>
 
 <br>
-
+- Working as Windows System and Network Administrator 
 - An Experienced Penetration Tester
 - Self-taught SOC Analyst
 - Currently Learning Python Automation for Cybersecurity and Vulnerability Scanning
